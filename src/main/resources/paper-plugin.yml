@@ -1,0 +1,6 @@
+name: test2
+version: '1.0-SNAPSHOT'
+main: org.examplea.test2.Test2
+api-version: '1.21'
+authors: [ k ]
+description: test
